@@ -19,7 +19,7 @@ require 'config.php';
             <thead>
             <tr>
                 <!-- penamaan row sesuai urutan dan nama harus sama dengan column -->
-            <th scope="col">No</th>
+            <th scope="col">No12</th>
             <th scope="col">Judul</th>
             <th scope="col">Penulis</th>
             <th scope="col">Penerbit</th>
